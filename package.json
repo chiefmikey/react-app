@@ -24,7 +24,7 @@
     "@babel/plugin-transform-react-jsx": "^7.25.9",
     "@babel/preset-env": "^7.27.1",
     "@babel/preset-react": "^7.27.1",
-    "@babel/preset-typescript": "^7.27.0",
+    "@babel/preset-typescript": "^7.27.1",
     "@mikey-pro/eslint-config-react": "^7.5.3",
     "@svgr/webpack": "^8.1.0",
     "@types/koa": "^2.15.0",
