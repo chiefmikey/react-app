@@ -29,7 +29,7 @@
     "@svgr/webpack": "^8.1.0",
     "@types/koa": "^3.0.1",
     "@types/koa-static": "^4.0.4",
-    "@types/react": "^19.2.5",
+    "@types/react": "^19.2.6",
     "@types/react-dom": "^19.2.3",
     "@types/webpack": "^5.28.5",
     "babel-loader": "^9.2.1",
